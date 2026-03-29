@@ -39,6 +39,27 @@ const articles = [
     date: 'March 29, 2026',
     content: 'At least 64 people were killed, including over a dozen children, in an airstrike on a hospital in East Darfur. The WHO confirmed 89 additional injuries and said the facility will no longer operate. The U.N. separately declared the transatlantic slave trade a crime against humanity.',
     image: '/img-humanitarian.png'
+  },
+  {
+    title: 'Artemis 2 Rolls Out: Humans Return to the Moon in Days',
+    category: 'Space',
+    date: 'March 29, 2026',
+    content: 'NASA\u2019s 322-foot Space Launch System completed its overnight rollout to Launch Complex 39B, with a four-astronaut crew set to fly around the moon as soon as April 1. Astronauts Reid Wiseman, Victor Glover, Christina Koch, and Canada\u2019s Jeremy Hansen will make history aboard the Orion capsule \u2018Integrity.\u2019',
+    image: '/img-space.png'
+  },
+  {
+    title: 'Scientists Crack Why Cancer Drugs Fail \u2014 A Hidden Reservoir Inside Cells',
+    category: 'Health',
+    date: 'March 29, 2026',
+    content: 'Researchers have discovered that certain cancer drugs get trapped inside lysosomes within tumor cells, forming slow-release reservoirs that cause uneven drug distribution. Separately, scientists engineered probiotic bacteria to act as tumor-seeking drug factories, showing promise in mice.',
+    image: '/img-health.png'
+  },
+  {
+    title: 'Southwest Heat Wave Shatters All-Time March Records',
+    category: 'Climate',
+    date: 'March 29, 2026',
+    content: 'Phoenix hit 105\u00b0F and Arizona set a new national March record of 112\u00b0F, breaking the previous high set just one day earlier. San Francisco reached 90\u00b0F in March for the first time in recorded history. Climate scientists called it one of the most extreme weather events ever documented.',
+    image: '/img-climate.png'
   }
 ];
 
